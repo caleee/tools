@@ -1,0 +1,5 @@
+**/.DS_Store
+**/*.log
+**/*.out
+h2tc-login-statistics/*.sql
+h2tc-login-statistics/*.md
